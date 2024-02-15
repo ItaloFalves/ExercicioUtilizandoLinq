@@ -1,0 +1,4 @@
+Bob Brown,bob@gmail.com,5000.00
+Maria Green,maria@gmail.com,2000.00
+Mario Blue,mario@gmail.com,2000.00
+Joao Black,joao@gmail.com,3500.00

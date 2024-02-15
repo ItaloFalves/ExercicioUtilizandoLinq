@@ -1,0 +1,14 @@
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\bin\Debug\net8.0\ExercicioUtilizandoLinq.exe
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\bin\Debug\net8.0\ExercicioUtilizandoLinq.deps.json
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\bin\Debug\net8.0\ExercicioUtilizandoLinq.runtimeconfig.json
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\bin\Debug\net8.0\ExercicioUtilizandoLinq.dll
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\bin\Debug\net8.0\ExercicioUtilizandoLinq.pdb
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ExercicioUtilizandoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ExercicioUtilizandoLinq.AssemblyInfoInputs.cache
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ExercicioUtilizandoLinq.AssemblyInfo.cs
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ExercicioUtilizandoLinq.csproj.CoreCompileInputs.cache
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ExercicioUtilizandoLinq.dll
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\refint\ExercicioUtilizandoLinq.dll
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ExercicioUtilizandoLinq.pdb
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ExercicioUtilizandoLinq.genruntimeconfig.cache
+C:\temp\projetos\C# - Curso\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\ExercicioUtilizandoLinq\obj\Debug\net8.0\ref\ExercicioUtilizandoLinq.dll
